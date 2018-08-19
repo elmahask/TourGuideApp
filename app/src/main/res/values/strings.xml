@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+    <string name="places">Places</string>
+    <string name="beaches">Beaches</string>
+    <string name="restaurants">Foods</string>
+    <string name="information">About</string>
+    <string name="about_egypt">Egypt\'s important role in geopolitics stems from its strategic position: a transcontinental nation, it possesses a land bridge (the Isthmus of Suez) between Africa and Asia, traversed by a navigable waterway (the Suez Canal) that connects the Mediterranean Sea with the Indian Ocean by way of the Red Sea.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="info1">Cairo city contain a lot of Restaurant</string>
+    <string name="info2">Alex city contain a lot of Restaurant</string>
+    <string name="info4">Cairo city contain a lot of Restaurant</string>
+    <string name="info5">Alex city contain a lot of Restaurant</string>
+    <string name="info_beach">Sharm city contain a Very Beautiful beaches</string>
+    <string name="info_beach2">Alex city contain a Very Beautiful beaches</string>
+    <string name="info_beach3">Safaga city contain a Very Beautiful beaches</string>
+    <string name="info_place1">Giza city contain a lot of Aged things</string>
+    <string name="info_place2">Cairo city contain a lot of Aged things</string>
+    <string name="info_place3">Giza city contain a lot of Aged things</string>
+    <string name="info_place4">Cairo city contain a lot of Aged things</string>
+    <string name="cairo">Cairo</string>
+    <string name="alex">Alex</string>
+    <string name="phone">0201001010101</string>
+    <string name="giza">Giza</string>
+    <string name="sharm">Sharm</string>
+    <string name="safaga">Safaga</string>
+</resources>
